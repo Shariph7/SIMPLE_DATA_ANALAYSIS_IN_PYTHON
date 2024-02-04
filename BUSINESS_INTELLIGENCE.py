@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # Reading CSV FILES USING read_csv functions.
 Data = pd.read_csv('Details.csv')
-print(Data.head()) # Gives Informations of first 5 rows of the Csv files.
+print(Data.head())
 # print(Data.tail()) # Gives Informations of last 5 rows of the CSV files.
 
 # Analayzing the Amounts and the Profits.

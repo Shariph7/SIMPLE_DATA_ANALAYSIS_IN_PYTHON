@@ -11,5 +11,5 @@ above the line 28. there is theh analyzing of the Details CSV Files for better u
 
 <!-- after Line:30 there is more enhance or more heavy data analyazing but it is quit simplerw whe you understands the features used in the program -->
 
-Author - Shariph Thapa
+Author - Shariph Thapa Magar
 Thank You!
